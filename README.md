@@ -12,7 +12,7 @@ Soy **QA Engineer** con experiencia en **pruebas manuales y automatizadas**, enf
 - 🧩 Desarrollando habilidades en **automatización de pruebas**, **pruebas API** y **pruebas en bases de datos**.
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/arturo-lopez-236187111) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-lopez-236187111/) 
 
 ## 🛠️ Habilidades
 
