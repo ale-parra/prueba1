@@ -1,5 +1,6 @@
 
-![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/user-attachments/assets/9c94c7ed-4c79-48b2-afc7-4290f7abc489)
+![tester(1)](https://github.com/user-attachments/assets/368d3250-3a36-4de1-8143-04dffa1e5779)
+
 
 # 👋 ¡Hola, soy Arturo!
 
