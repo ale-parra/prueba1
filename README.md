@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/32c19b52-e8bc-4626-8933-f1ecb900a590" />
+
 <h1 align="center">👋 Bienvenidos a mi portafolio</h1>
 
 <p align="center">
