@@ -109,19 +109,6 @@ Ejecuté pruebas a través de **Postman**, cubriendo distintos escenarios positi
 
 **Enlace:** [Documentación](https://docs.google.com/spreadsheets/d/1oxulBaDu9I87sfrTznCO0nsu-l82RCwy/edit?usp=sharing&ouid=107237944095702952674&rtpof=true&sd=true)
 
-**Capturas del proyecto:**  
-
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_grocer.PNG" target="_blank">
-    <img src="assets/img/urban_grocer.PNG" alt="APK en Android Studio" width="500"/>
-  </a>  
-</div>
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_grocer_informe.PNG" target="_blank">
-    <img src="assets/img/urban_grocer_informe.PNG" alt="APK en Android Studio" width="500"/>
-  </a>  
-</div>
-
 ---
 
 ## 🚕 Urban.Routes – Aplicación web para reserva de taxis
@@ -144,18 +131,6 @@ Elaboré listas de comprobación para validar el diseño del formulario de reser
 
 **Enlace:** [Documentación](https://docs.google.com/spreadsheets/d/1nysITF9hLRwZnlkAy8aec1B62LoJRbA2/edit?usp=sharing&ouid=107237944095702952674&rtpof=true&sd=true)
 
-**Capturas del proyecto:**  
-
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_routes.PNG" target="_blank">
-    <img src="assets/img/urban_routes.PNG" alt="APK en Android Studio" width="500"/>
-  </a>  
-</div>
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_routes_informe.PNG" target="_blank">
-    <img src="assets/img/urban_routes_informe.PNG" alt="APK en Android Studio" width="500"/>
-  </a>  
-</div>
 
 ---
 
@@ -181,18 +156,6 @@ Entre las funcionalidades automatizadas se encuentran: selección de tarifa “C
 
 **Enlace:** [Documentación](https://docs.google.com/spreadsheets/d/1nysITF9hLRwZnlkAy8aec1B62LoJRbA2/edit?usp=sharing&ouid=107237944095702952674&rtpof=true&sd=true)  
 
-**Capturas del proyecto:**  
-
-<div style="display:flex; gap:10px;">
-  <a href="urban_routes_autom_1.PNG" target="_blank">
-    <img src="assets/img/urban_routes_autom_1.PNG" alt="Captura autom_1" width="500"/>
-  </a>  
-</div>
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_routes_autom_2.PNG" target="_blank">
-    <img src="assets/img/urban_routes_autom_2.PNG" alt="Captura autom_2" width="500"/>
-  </a>  
-</div>
 
 ---
 
@@ -218,26 +181,13 @@ Las pruebas incluyeron autenticación vía authToken, envío de solicitudes POST
 
 **Enlace:** [Documentación](https://docs.google.com/spreadsheets/d/1oxulBaDu9I87sfrTznCO0nsu-l82RCwy/edit?usp=sharing&ouid=107237944095702952674&rtpof=true&sd=true)
 
-**Capturas del proyecto:**  
-
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_grocers_autom_1.PNG" target="_blank">
-    <img src="assets/img/urban_grocers_autom_1.PNG" alt="Captura atm grocers" width="500"/>
-  </a>  
-</div>
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_grocers_autom_2.PNG" target="_blank">
-    <img src="assets/img/urban_grocers_autom_2.PNG" alt="Captura atm grocers 2" width="500"/>
-  </a>  
-</div>
 
 ---
 
-## 📬 ¿Trabajamos juntos?
-
+## 📞 Hablemos.
 Gracias por tomarte el tiempo de visitar mi portafolio.  
-Estoy en búsqueda activa de oportunidades como **QA Manual**, **QA Automatizador Junior** o roles híbridos, donde pueda contribuir con análisis detallado, pensamiento crítico y enfoque en la mejora continua de la calidad del software.
+Estoy en búsqueda de oportunidades como **QA Manual**, **QA Automatizador Junior** donde pueda contribuir con análisis detallado, pensamiento crítico y enfoque en la mejora continua de la calidad del software.
 
-Me interesa colaborar con **consultoras TI**, **startups con visión tecnológica** o **instituciones financieras** que valoren procesos de testing bien estructurados y documentación clara.
+Me interesa colaborar con **Inteligencias artificales**, **startups con visión tecnológica** o **Softwares Dentales** que valoren procesos de testing bien estructurados y documentación clara.
 
-<p align="center"><strong>✨ ¡Conversemos! Estoy listo para sumarme a tu equipo.</strong></p>
+<p align="center"><strong>✨ ¡Conversemos! Estoy lista para sumarme a tu equipo.</strong></p>
