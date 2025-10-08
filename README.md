@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bienvenido/a a mi portafolio</h1>
+<h1 align="center">👋 Bienvenidos a mi portafolio</h1>
 
 <p align="center">
   <strong>QA ENGINEER · QA MANUAL TESTER · QA DOCUMENTADOR · QA AUTOMATIZADOR JUNIOR</strong>
@@ -17,15 +17,15 @@
 
 ## 📋 Índice
 
-1. [🚀 Sobre mí](#-sobre-mí)  
-2. [🛠️ Tech Stack](#️-tech-stack)  
-3. [📂 Proyectos Destacados](#-proyectos-destacados)  
+1. [💾 Sobre mí](#-sobre-mí)  
+2. [🛠️ 🧰Tech Stack](#️-tech-stack)  
+3. [💽 Proyectos Destacados](#-proyectos-destacados)  
 4. [📄 CV Profesional](#-cv-profesional)  
-5. [📬 ¿Hablemos?](#-hablemos)
+5. [📞 ¿Hablemos?](#-hablemos)
 
 ---
 
-## 🚀 Sobre mí
+## 💾 Sobre mí
 
 Soy un profesional con formación en Contabilidad, especializado en **Quality Assurance (QA)**. Combino habilidades técnicas en **pruebas manuales y automatizadas**, manejo de herramientas como **Selenium, Postman y JIRA**, y experiencia en documentación, SQL y análisis de datos.
 
@@ -50,7 +50,7 @@ Además, cuento con experiencia en:
     
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 🧰 Tech Stack
 
 ### 🧪 QA & Testing
 
@@ -88,7 +88,7 @@ Además, cuento con experiencia en:
 
 ---
 
-## 📂 Proyectos Destacados
+## 💽 Proyectos Destacados
 
 ## 🛴 Urban.Scooter – Plataforma web y API para alquilar scooters
 Validé la calidad de una aplicación web y móvil para el alquiler de scooters eléctricos. Analicé los requisitos funcionales, diseñé pruebas aplicando técnicas como **partición de equivalencias** y **valores límite**, y validé la integración de datos con **Postman** y **DevTools**, asegurando precisión en los flujos backend y front-end.
