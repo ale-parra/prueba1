@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bienvenidos a mi portafolio</h1>
 
 <p align="center">
-  <strong>QA ENGINEER · QA MANUAL TESTER · QA DOCUMENTADOR · QA AUTOMATIZADOR JUNIOR</strong>
+  <strong>QA ENGINEER · QA MANUAL TESTER · QA DOCUMENTACIÓN · QA AUTOMATIZADOR JUNIOR</strong>
 </p>
 
 <p align="center">
@@ -19,15 +19,14 @@
 
 1. [💾 Sobre mí](#-sobre-mí)  
 2. [🛠️ 🧰Tech Stack](#️-tech-stack)  
-3. [💽 Proyectos Destacados](#-proyectos-destacados)  
-4. [📄 CV Profesional](#-cv-profesional)  
-5. [📞 ¿Hablemos?](#-hablemos)
+3. [💽 Proyectos Destacados](#-proyectos-destacados)   
+4. [📞 ¿Hablemos?](#-hablemos)
 
 ---
 
 ## 💾 Sobre mí
 
-Soy un profesional con formación en Contabilidad, especializado en **Quality Assurance (QA)**. Combino habilidades técnicas en **pruebas manuales y automatizadas**, manejo de herramientas como **Selenium, Postman y JIRA**, y experiencia en documentación, SQL y análisis de datos.
+Soy una profesional con formación en Odontologica, especializado en **Quality Assurance (QA)**. Combino habilidades técnicas en **pruebas manuales y automatizadas**, manejo de herramientas como **Selenium, Postman y JIRA**, y experiencia en documentación, SQL y análisis de datos.
 
 Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos ágiles y optimizar procesos con pensamiento crítico y proactividad.
 
@@ -90,93 +89,6 @@ Además, cuento con experiencia en:
 
 ## 💽 Proyectos Destacados
 
-## 🛴 Urban.Scooter – Plataforma web y API para alquilar scooters
-Validé la calidad de una aplicación web y móvil para el alquiler de scooters eléctricos. Analicé los requisitos funcionales, diseñé pruebas aplicando técnicas como **partición de equivalencias** y **valores límite**, y validé la integración de datos con **Postman** y **DevTools**, asegurando precisión en los flujos backend y front-end.
-
-Este trabajo me permitió optimizar pruebas funcionales y de UI, documentar hallazgos en JIRA.
-
-**Resultados destacados:**
-- 🧪 Diseñé y ejecuté **54 casos de prueba** para validaciones de API.  
-- 🔗 Probé **4 endpoints** (GET, POST, DELETE) usando **Postman**.  
-- 🐞 Reporté **22 errores** documentados en **JIRA**, priorizados según severidad.
- 
-**Aptitudes:**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-6E4AFF?style=for-the-badge)
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
-![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
-
-**Enlace:** [Documentación](https://drive.google.com/drive/folders/1x-4E8KiIu2ajAgzAP8Bijax7SEHyXCK9?usp=drive_link)
-
-**Capturas del proyecto:**  
-
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_scooter_1.PNG" target="_blank">
-    <img src="assets/img/urban_scooter_1.PNG" alt="Postman test" width="500"/>
-  </a>  
-</div>
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_scooter_2.PNG" target="_blank">
-    <img src="assets/img/urban_scooter_2.PNG" alt="Postman test" width="500"/>
-  </a>  
-</div>
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_scooter_informe.PNG" target="_blank">
-    <img src="assets/img/urban_scooter_informe.PNG" alt="Postman test" width="500"/>
-  </a>  
-</div>
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_scooter_informe_detalle.PNG" target="_blank">
-    <img src="assets/img/urban_scooter_informe_detalle.PNG" alt="Postman test" width="500"/>
-  </a>  
-</div>
-
----
-
-## 🍔 Urban.Lunch – Aplicación Android para pedir comida
-Validé la primera versión de **Urban.Lunch**, una aplicación Android para personalizar y pedir comidas de distintos restaurantes, con retiro en puntos de recogida. Analicé los requisitos funcionales y diseñé una **lista de comprobación** basada en criterios clave de usabilidad, funcionalidad y consistencia.
-
-Probé la app en un **emulador Android Studio**, verificando la interacción de la interfaz, lógica de negocio y respuesta ante errores. Reporté hallazgos críticos mediante **JIRA**, documentando cada incidencia con claridad y priorización, contribuyendo a la mejora del producto final.
-
-**Resultados destacados:**
-- ✅ Elaboré una **lista de verificación** basada en los requisitos funcionales.  
-- 📲 Probé la app en **emulador Android**, validando UI y flujos clave.  
-- 🐛 Documenté **errores críticos en JIRA** con detalle y severidad.
-- 🧪 Diseñé y ejecuté **49 casos de prueba** y reporté **4 errores críticos**, organizados por requisitos.
-- Validé **interacciones con botones físicos** del emulador para asegurar la usabilidad.
-
-**Aptitudes:**
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-1AB26B?style=for-the-badge)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
-
-**Enlace:** [Documentación](https://drive.google.com/drive/folders/1AIdbUVe2ooNXWrTryXrfAfcS0gAUpe9W?usp=drive_link)
-
-**Capturas del proyecto:**  
-
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_lunch.PNG" target="_blank">
-    <img src="assets/img/urban_lunch.PNG" alt="APK en Android Studio" width="500"/>
-  </a>  
-</div>
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_lunch_informe.PNG" target="_blank">
-    <img src="assets/img/urban_lunch_informe.PNG" alt="APK en Android Studio" width="500"/>
-  </a>  
-</div>
-<div style="display:flex; gap:10px;">
-  <a href="assets/img/urban_lunch_informe_detalle.PNG" target="_blank">
-    <img src="assets/img/urban_lunch_informe_detalle.PNG" alt="APK en Android Studio" width="500"/>
-  </a>  
-</div>
-
----
-
 ## 🛒 Urban.Grocers – Aplicación web para comprar comestibles
 Este proyecto consistio en la validación del backend de **Urban.Grocers**, una aplicación web para la compra de comestibles. Estudié la documentación técnica en **Apidoc**, analicé los requisitos de una nueva funcionalidad y diseñé una **lista de comprobación** centrada en flujos de datos y respuestas esperadas.
 
@@ -195,7 +107,7 @@ Ejecuté pruebas a través de **Postman**, cubriendo distintos escenarios positi
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-008080?style=for-the-badge)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-**Enlace:** [Documentación](https://drive.google.com/drive/folders/1jn4_GWZLQSG5LKZJ0PHmtWFxHvyNV-qg?usp=drive_link)
+**Enlace:** [Documentación](https://docs.google.com/spreadsheets/d/1oxulBaDu9I87sfrTznCO0nsu-l82RCwy/edit?usp=sharing&ouid=107237944095702952674&rtpof=true&sd=true)
 
 **Capturas del proyecto:**  
 
@@ -230,7 +142,7 @@ Elaboré listas de comprobación para validar el diseño del formulario de reser
 ![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-**Enlace:** [Documentación](https://drive.google.com/drive/folders/1kCK8Lgd5LxcjgNK2LOSR1O4uLad20rsj?usp=drive_link)
+**Enlace:** [Documentación](https://docs.google.com/spreadsheets/d/1nysITF9hLRwZnlkAy8aec1B62LoJRbA2/edit?usp=sharing&ouid=107237944095702952674&rtpof=true&sd=true)
 
 **Capturas del proyecto:**  
 
@@ -267,7 +179,7 @@ Entre las funcionalidades automatizadas se encuentran: selección de tarifa “C
 ![XPath / Selectors](https://img.shields.io/badge/XPath%20%2F%20Selectors-808080?style=for-the-badge)
 ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-FFD700?style=for-the-badge)
 
-**Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/qa-project-Urban-Routes-es.git)  
+**Enlace:** [Documentación](https://docs.google.com/spreadsheets/d/1nysITF9hLRwZnlkAy8aec1B62LoJRbA2/edit?usp=sharing&ouid=107237944095702952674&rtpof=true&sd=true)  
 
 **Capturas del proyecto:**  
 
@@ -304,7 +216,7 @@ Las pruebas incluyeron autenticación vía authToken, envío de solicitudes POST
 ![Modular Code](https://img.shields.io/badge/Modular%20Structure-444444?style=for-the-badge)
 ![JSON Validation](https://img.shields.io/badge/JSON%20Validation-1E90FF?style=for-the-badge)
 
-**Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/qa-project-Urban-Grocers-app-es.git)
+**Enlace:** [Documentación](https://docs.google.com/spreadsheets/d/1oxulBaDu9I87sfrTznCO0nsu-l82RCwy/edit?usp=sharing&ouid=107237944095702952674&rtpof=true&sd=true)
 
 **Capturas del proyecto:**  
 
@@ -318,16 +230,6 @@ Las pruebas incluyeron autenticación vía authToken, envío de solicitudes POST
     <img src="assets/img/urban_grocers_autom_2.PNG" alt="Captura atm grocers 2" width="500"/>
   </a>  
 </div>
-
----
-
-## 📄 CV Profesional
-
-<p align="center">
-  <a href="docs/CV - Arturo Lopez QA 2025.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF Badge"/>
-  </a>
-</p>
 
 ---
 
