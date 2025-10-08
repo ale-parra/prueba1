@@ -96,7 +96,7 @@ Ejecuté pruebas a través de **Postman**, cubriendo distintos escenarios positi
 
 **Resultados destacados:**
 - 📄 Analicé la documentación técnica del backend y API.  
-- ✔️ Diseñé **70 casos de prueba**, identificando y reportando **30 errores en JIRA**.
+- ✔️ Diseñé **Casos de prueba**, identificando y reportando **Errores en JIRA**.
 - 🔍 Probé **endpoints en Postman** y documenté errores en **JIRA**, incluyendo estructura de JSON y respuestas esperadas.
 
 **Aptitudes:**
